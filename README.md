@@ -1,5 +1,5 @@
 # Course Capture-The-Flag (Ethical Hacking)
-Project URL:
+Project URL: https://andrewb1998.github.io/CTF-Ethical-Hacking/
 
 This repository contains a detailed report of a Capture the Flag (CTF) challenge for the course Ethical Hacking at University of Turku. 
 The challenge was completed under supervised conditions within a 2-hour timeframe. The task was completed with full points.
